@@ -8,7 +8,7 @@ Utilizes [Yalmip](https://yalmip.github.io/) and [Gurobi](https://www.gurobi.com
 
 Although all aspects of the model are implmented, the performance of the current version is quite bad.
 
-For now, I suggest you only look at this for inspiration.
+Further optimization or change in structure required for actual use.
 
 ## Preliminary results
 
