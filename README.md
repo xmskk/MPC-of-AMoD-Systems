@@ -12,7 +12,7 @@ For now, I suggest you only look at this for inspiration.
 
 ## Preliminary results
 
-<img src='https://user-images.githubusercontent.com/28818052/150659573-0c23aff5-f52e-4b95-b9d9-2658da7a6552.png' width='600'>
-<img src='https://user-images.githubusercontent.com/28818052/150659574-1dfbb0c0-b546-43d6-9022-d08ccb18585c.png' width='600'>
-<img src='https://user-images.githubusercontent.com/28818052/150659575-0eff3e2f-d053-4a68-b1b5-a76b2e4a20f3.png' width='600'>
-<img src='https://user-images.githubusercontent.com/28818052/150659577-2a3e364e-4026-4a91-9e52-cdd46814bcc5.png' width='600'>
+<img src='https://user-images.githubusercontent.com/28818052/150659704-9e0bb4a3-8c8f-4c87-bcdb-ffe9cc99ce1a.png' width='600'>
+<img src='https://user-images.githubusercontent.com/28818052/150659705-ecb70b2a-a9c7-4a50-8f28-cae8083aaff2.png' width='600'>
+<img src='https://user-images.githubusercontent.com/28818052/150659706-14f7903c-7537-4799-86aa-bcf275aa800b.png' width='600'>
+<img src='https://user-images.githubusercontent.com/28818052/150659707-b10101b3-d3f5-4ddc-9ad9-77cac0a2f014.png' width='600'>
